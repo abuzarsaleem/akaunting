@@ -20,6 +20,7 @@ Akaunting is a free, open source and online accounting software designed for sma
 * PHP 8.1 or higher
 * Database (eg: MySQL, PostgreSQL, SQLite)
 * Web Server (eg: Apache, Nginx, IIS)
+* Required npm node version v12.14.0
 * [Other libraries](https://akaunting.com/hc/docs/on-premise/requirements/)
 
 ## Framework
